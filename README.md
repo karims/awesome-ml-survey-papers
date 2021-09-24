@@ -6,11 +6,14 @@ List of curated survey papers in machine/deep learning
 2. [NLP](#paragraph1)
     1. [Reading comprehension](#rc)
     2. [Text generation](#tg)
-    3. [Code generation](#cg)
-    4. [Data augmentation](#dataaug)
-    5. [Other](#subparagraph3)
+    3. [Question Answering](#qa)
+    4. [Conversational](#cc)
+    5. [Code generation](#cg)
+    6. [Data augmentation](#dataaug)
+    7. [Other](#subparagraph3)
 3. [Applications](#applications)
     1. [Medical](#medical)
+    2. [Material science](#material)
 
 ## Transformers <a name="transformers"></a>
 1. [A Survey of Transformers](https://arxiv.org/abs/2106.04554) T Lin, Y Wang, X Liu, X Qiu - arXiv preprint arXiv:2106.04554, 2021 
@@ -30,6 +33,19 @@ Sub-categorized as below:
 1. [Pretrained Language Models for Text Generation: A Survey](https://arxiv.org/abs/2105.10311) Junyi Li, Tianyi Tang, Wayne Xin Zhao, Ji-Rong Wen 	arXiv:2105.10311, 2021
 2. [The survey: Text generation models in deep learning](https://www.sciencedirect.com/science/article/pii/S1319157820303360)
 3. [A survey of evaluation metrics used for NLG systems](https://arxiv.org/abs/2008.12009) AB Sai, AK Mohankumar, MM Khapra - arXiv preprint arXiv:2008.12009, 2020
+4. [Towards User-Centric Text-to-Text Generation: A Survey](https://link.springer.com/chapter/10.1007/978-3-030-83527-9_1) Diyi Yang, Lucie Flek
+
+### Question Answering <a name="qa"></a>
+1. [Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering](https://arxiv.org/abs/2101.00774) Fengbin Zhu, Wenqiang Lei, Chao Wang, Jianming Zheng, Soujanya Poria, Tat-Seng Chua... 2021
+2. [Conversational Question Answering: A Survey](https://arxiv.org/abs/2106.00874) Munazza Zaib, Wei Emma Zhang, Quan Z. Sheng, Adnan Mahmood, Yang Zhang.. 2021
+3. [Visual question answering using deep learning: A survey and performance analysis](https://link.springer.com/chapter/10.1007/978-981-16-1092-9_7) Y Srivastava, V Murali, SR Dubey… - … Conference on Computer …, 2020 
+4. [Biomedical Question Answering: A Survey of Approaches and Challenges](https://arxiv.org/abs/2102.05281) Qiao Jin, Zheng Yuan, Guangzhi Xiong, Qianlan Yu, Huaiyuan Ying.. 2021
+5. [A survey on complex question answering over knowledge base: Recent advances and challenges](https://arxiv.org/abs/2007.13069) B Fu, Y Qiu, C Tang, Y Li, H Yu, J Sun - arXiv preprint arXiv:2007.13069, 2020 
+6. [Text-based Question Answering from Information Retrieval and Deep Neural Network Perspectives: A Survey](https://arxiv.org/abs/2002.06612) Zahra Abbasiantaeb, Saeedeh Momtazi..2020
+
+### Conversational <a name="cc"></a>
+1. [Conversational Question Answering: A Survey](https://arxiv.org/abs/2106.00874) Munazza Zaib, Wei Emma Zhang, Quan Z. Sheng, Adnan Mahmood, Yang Zhang.. 2021
+2. [Advances in Multi-turn Dialogue Comprehension: A Survey](https://arxiv.org/abs/2103.03125) Zhuosheng Zhang, Hai Zhao.. 2021
 
 ### Code generation <a name="cg"></a>
 This is a sub paragraph, formatted in heading 3 style
@@ -49,3 +65,9 @@ This is a sub paragraph, formatted in heading 3 style
 ## Applications <a name="applications"></a>
 
 ### Medical <a name="medical"></a>
+1. [Self-supervised learning methods and applications in medical imaging analysis: A survey](https://arxiv.org/abs/2109.08685) Saeed Shurrab, Rehab Duwiari, 2021
+2. []
+
+### Material science <a name="material"></a>
+1. [MaterialsAtlas.org: A Materials Informatics Web App Platform for Materials Discovery and Survey of State-of-the-Art](https://arxiv.org/abs/2109.04007) Jianjun Hu, Stanislav Stefanov, Yuqi Song, Sadman Sadeed Omee, ... 2021
+2. [Deep Learning the Electromagnetic Properties of Metamaterials—A Comprehensive Review](https://en.x-mol.com/paper/article/1398392259059630080) Omar Khatib, Simiao Ren, Jordan Malof, Willie J. Padilla ... 2021
