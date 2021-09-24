@@ -13,7 +13,10 @@ List of curated survey papers in machine/deep learning
     7. [Other](#subparagraph3)
 3. [Vision](#vision)
     1. [Images](#images)
-    2. [Video](#video)
+    2. [Image captioning](#ic)
+    3. [Image segmentation](#is)
+    4. [Video](#video)
+    5. [Other](#otherimg)
 4. [Applications](#applications)
     1. [Medical](#medical)
     2. [Material science](#material)
@@ -69,19 +72,44 @@ This is a sub paragraph, formatted in heading 3 style
 Sub-categorized as below:
 
 ### Images <a name="images"></a>
-1. [A Survey on Deep Visual Place Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9336674) C Masone, B Caputo , 2021
-2. [Deep learning-enabled medical computer vision](https://www.nature.com/articles/s41746-020-00376-2) A Esteva, K Chou, S Yeung, N Naik, A Madani… 2021
-3. [A survey on deep geometry learning: From a representation perspective](https://link.springer.com/content/pdf/10.1007/s41095-020-0174-8.pdf) YP Xiao, YK Lai, FL Zhang, C Li, L Gao - Computational Visual Media, 2020
+1. [A survey on Semi-, Self- and Unsupervised Learning for Image Classification](https://arxiv.org/abs/2002.08721) Lars Schmarje, Monty Santarossa, Simon-Martin Schröder, Reinhard Koch.. 2021
+2. [A Survey on Deep Visual Place Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9336674) C Masone, B Caputo , 2021
+3.  [Deep Learning for Image Super-resolution: A Survey](https://arxiv.org/abs/1902.06068) Zhihao Wang, Jian Chen, Steven C. H. Hoi.. 2020
+4.  [A Survey on Deep Learning-based Architectures for Semantic Segmentation on 2D images](https://arxiv.org/abs/1912.10230) Irem Ulku, Erdem Akagunduz.. 2021
+5.  [Low-Light Image and Video Enhancement Using Deep Learning: A Survey](https://arxiv.org/abs/2104.10729) Chongyi Li, Chunle Guo, Linghao Han, Jun Jiang, Ming-Ming Cheng, Jinwei Gu, Chen Change Loy
+6.  [A Comprehensive Survey on Image Dehazing Based on Deep Learning](https://arxiv.org/abs/2106.03323) Jie Gui, Xiaofeng Cong, Yuan Cao, Wenqi Ren, Jun Zhang, Jing Zhang, Dacheng Tao.. 2021
+7.  [Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey](https://arxiv.org/abs/1912.05170) Görkem Algan, Ilkay Ulusoy.. 2021
+8.  [A survey on deep geometry learning: From a representation perspective](https://link.springer.com/content/pdf/10.1007/s41095-020-0174-8.pdf) YP Xiao, YK Lai, FL Zhang, C Li, L Gao - Computational Visual Media, 2020
+
+### Image captioning <a name="ic"></a>
+1. [From Show to Tell: A Survey on Image Captioning](https://arxiv.org/abs/2107.06912) Matteo Stefanini, Marcella Cornia, Lorenzo Baraldi,.. 2021
+2. [Image Captioning based on Deep Learning Methods: A Survey](https://arxiv.org/abs/1905.08110) Yiyu Wang, Jungang Xu, Yingfei Sun, Ben He.. 2019
+3. [A Comprehensive Survey of Deep Learning for Image Captioning](https://arxiv.org/abs/1810.04020) Md. Zakir Hossain, Ferdous Sohel, Mohd Fairuz Shiratuddin, Hamid Laga
+4. [A Survey on Biomedical Image Captioning](https://arxiv.org/abs/1905.13302) Vasiliki Kougia, John Pavlopoulos, Ion Androutsopoulos.. 2019
+
+### Image segmentation <a name="is"></a>
+1. [[Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/abs/2001.05566) Shervin Minaee, Yuri Boykov, Fatih Porikli, Antonio Plaza, Nasser Kehtarnavaz, Demetri Terzopoulos... 2020]
+2. [A Survey on Deep Learning Methods for Semantic Image Segmentation in Real-Time](https://arxiv.org/abs/2009.12942) Georgios Takos
 
 ### Video <a name="video"></a>
 1. [Video Question Answering: a Survey of Models and Datasets](https://link.springer.com/article/10.1007/s11036-020-01730-0) Guanglu Sun, Lili Liang, Tianlin Li, Bo Yu, Meng Wu & Bolun Zhang 
 
+### Other <a name="otherimg"></a>
+1. [A Survey of Hand Crafted and Deep Learning Methods for Image Aesthetic Assessment](https://arxiv.org/abs/2103.11616) Saira Kanwal, Muhammad Uzair and Habib Ullah
+2. [Deep Learning for Fine-Grained Image Analysis: A Survey](https://arxiv.org/abs/1907.03069) Xiu-Shen Wei, Jianxin Wu, Quan Cui
+
 ## Applications <a name="applications"></a>
 
 ### Medical <a name="medical"></a>
-1. [Self-supervised learning methods and applications in medical imaging analysis: A survey](https://arxiv.org/abs/2109.08685) Saeed Shurrab, Rehab Duwiari, 2021
-2. []
+1. [Deep learning-enabled medical computer vision](https://www.nature.com/articles/s41746-020-00376-2) A Esteva, K Chou, S Yeung, N Naik, A Madani… 2021
+2. [Self-supervised learning methods and applications in medical imaging analysis: A survey](https://arxiv.org/abs/2109.08685) Saeed Shurrab, Rehab Duwiari, 2021
+3. [Medical Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/abs/2009.13120) Tao Lei, Risheng Wang, Yong Wan, Bingtao Zhang, Hongying Meng, Asoke K. Nandi.. 2021
+4. [Deep Learning for Biomedical Image Reconstruction: A Survey](https://arxiv.org/abs/2002.12351) Hanene Ben Yedder, Ben Cardoen, Ghassan Hamarneh
+5. [A State-of-the-art Survey of Object Detection Techniques in Microorganism Image Analysis](https://arxiv.org/abs/2105.03148) Chen Li, Pingli Ma, Md Mamunur Rahaman, Yudong Yao.. 2021
+6. [A survey on shape-constraint deep learning for medical image segmentation](https://arxiv.org/abs/2101.07721) Simon Bohlender, Ilkay Oksuz, Anirban Mukhopadhyay.. 2021
 
 ### Material science <a name="material"></a>
 1. [MaterialsAtlas.org: A Materials Informatics Web App Platform for Materials Discovery and Survey of State-of-the-Art](https://arxiv.org/abs/2109.04007) Jianjun Hu, Stanislav Stefanov, Yuqi Song, Sadman Sadeed Omee, ... 2021
 2. [Deep Learning the Electromagnetic Properties of Metamaterials—A Comprehensive Review](https://en.x-mol.com/paper/article/1398392259059630080) Omar Khatib, Simiao Ren, Jordan Malof, Willie J. Padilla ... 2021
+
+
