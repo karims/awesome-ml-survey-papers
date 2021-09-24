@@ -11,7 +11,10 @@ List of curated survey papers in machine/deep learning
     5. [Code generation](#cg)
     6. [Data augmentation](#dataaug)
     7. [Other](#subparagraph3)
-3. [Applications](#applications)
+3. [Vision](#vision)
+    1. [Images](#images)
+    2. [Video](#video)
+4. [Applications](#applications)
     1. [Medical](#medical)
     2. [Material science](#material)
 
@@ -61,6 +64,17 @@ This is a sub paragraph, formatted in heading 3 style
 3. [Representing Numbers in NLP: a Survey and a Vision](https://arxiv.org/abs/2103.13136) Avijit Thawani, Jay Pujara, Pedro A. Szekely, Filip Ilievski, arXiv:2103.13136, 2021
 4. [Visual-and-Language Navigation: A Survey and Taxonomy](https://arxiv.org/abs/2108.11544) Wansen Wu, Tao Chang, Xinmeng Li, 2021
 
+
+## Vision <a name="vision"></a>
+Sub-categorized as below:
+
+### Images <a name="images"></a>
+1. [A Survey on Deep Visual Place Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9336674) C Masone, B Caputo , 2021
+2. [Deep learning-enabled medical computer vision](https://www.nature.com/articles/s41746-020-00376-2) A Esteva, K Chou, S Yeung, N Naik, A Madani… 2021
+3. [A survey on deep geometry learning: From a representation perspective](https://link.springer.com/content/pdf/10.1007/s41095-020-0174-8.pdf) YP Xiao, YK Lai, FL Zhang, C Li, L Gao - Computational Visual Media, 2020
+
+### Video <a name="video"></a>
+1. [Video Question Answering: a Survey of Models and Datasets](https://link.springer.com/article/10.1007/s11036-020-01730-0) Guanglu Sun, Lili Liang, Tianlin Li, Bo Yu, Meng Wu & Bolun Zhang 
 
 ## Applications <a name="applications"></a>
 
